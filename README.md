@@ -3,7 +3,7 @@
 This challenge consists of both a frontend and backend portion and is intended to test familiarity with our stack, as well as attention to details of requirements.
 
 **Instructions:**
-- Clone this repository
+- Clone this repository and install the dependencies
 - The frontend portion consists of building a simple game, the specs for which can be found below
   - This project was created via Create-React-App, so you can just `cd` into the root level and run `npm start` to enable hot reloading while developing the app locally
   - Although in a real-life setting this project might be broken into several components, please keep everything in `App.js`
