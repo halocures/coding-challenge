@@ -1,6 +1,6 @@
 # Take-Home Challenge #2
 
-This challenge consists of both a frontend and backend portion
+This challenge consists of both a frontend and backend portion and is intended to test familiarity with our stack, as well as attention to details of requirements.
 
 **Instructions:**
 - Clone this repository
@@ -9,7 +9,7 @@ This challenge consists of both a frontend and backend portion
   - Although in a real-life setting this project might be broken into several components, please keep everything in `App.js`
   - Feel free to use any styling libraries you are comfortable with
   - In the event of any uncertainty, feel free to leave any comments to explain assumptions made or to give more insight into your thought processes
-- The backend portion involves writing a handful of Rails methods- the questions and instructions can be found in `/backend-challenge/questions.rb`
+- The backend portion involves writing a handful of isolated/unrelated Rails methods- the questions and instructions can be found in `/backend-challenge/questions.rb`
 - To submit your answer, please email `App.js` and `questions.rb` to andrew@halo.science when finished. Good luck!
 
 <br />
