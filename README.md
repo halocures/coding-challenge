@@ -6,11 +6,10 @@ This challenge consists of both a frontend and backend portion and is intended t
 - Clone this repository and install the dependencies
 - The frontend portion consists of building a simple game, the specs for which can be found below
   - This project was created via Create-React-App, so you can just `cd` into the root level and run `npm start` to enable hot reloading while developing the app locally
-  - Although in a real-life setting this project might be broken into several components, please keep everything in `App.js`
   - Feel free to use any styling libraries you are comfortable with
   - In the event of any uncertainty, feel free to leave any comments to explain assumptions made or to give more insight into your thought processes
 - The backend portion involves writing a handful of isolated/unrelated Rails methods- the questions and instructions can be found in `/backend-challenge/questions.rb`
-- To submit your answer, please email `App.js` and `questions.rb` to andrew@halo.science when finished. Good luck!
+- When you are done, upload the files to a folder in Google Drive and email the link ("Viewer"/read-only is fine) to andrew@halo.science
 
 <br />
 
@@ -36,7 +35,7 @@ The UI should resemble the attached video.  Notable features to include are:
 - As the player types, a histogram should display the relative times each key has been pressed
 - A button to switch the view, replacing the histogram with numerical counts for each time a number key has been pressed
 - (Not pictured in the video) When a player wins or loses:
-  - A message should should appear saying “YOU WON/LOST”
+  - A message should appear saying “YOU WON" or "YOU LOST" based on the outcome
   - If the player lost, the current value should display “Way too big”
   - A “Reset” button which starts the game over
 
